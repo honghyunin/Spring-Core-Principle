@@ -99,7 +99,7 @@ BeanFactory와 ApplicationContext
 
 롬복과 최신 트렌드
 
-조회 빈이 2개 이상 - 문제
+[조회 빈이 2개 이상 - 문제](https://github.com/honghyunin/Spring-Core-Principle/blob/main/Chapter_7/%ec%a1%b0%ed%9a%8c_%eb%b9%88%ec%9d%b4_2%ea%b0%9c_%ec%9d%b4%ec%83%81-%eb%ac%b8%ec%a0%9c.md)
 
 @Autowired 필드 명, @Qualifier, @Primary
 
