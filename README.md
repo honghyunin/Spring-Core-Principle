@@ -99,9 +99,9 @@ BeanFactory와 ApplicationContext
 
 롬복과 최신 트렌드
 
-[조회 빈이 2개 이상 - 문제](https://github.com/honghyunin/Spring-Core-Principle/blob/main/Chapter_7/%ec%a1%b0%ed%9a%8c_%eb%b9%88%ec%9d%b4_2%ea%b0%9c_%ec%9d%b4%ec%83%81-%eb%ac%b8%ec%a0%9c.md)
+[조회 빈이 2개 이상 - 문제](https://github.com/honghyunin/Spring-Core-Principle/blob/main/Chapter_7/%EC%A1%B0%ED%9A%8C_%EB%B9%88%EC%9D%B4_2%EA%B0%9C_%EC%9D%B4%EC%83%81-%EB%AC%B8%EC%A0%9C.md)
 
-[@Autowired 필드 명, @Qualifier, @Primary](https://github.com/honghyunin/Spring-Core-Principle/blob/main/Chapter_7/%40Autowired+%ed%95%84%eb%93%9c+%eb%aa%85%2c+%40Qulifier%2c+%40Primary)
+[@Autowired 필드 명, @Qualifier, @Primary](https://github.com/honghyunin/Spring-Core-Principle/blob/main/Chapter_7/%40Autowired%20필드%20명%2C%20%40Qulifier%2C%20%40Primary.md)
 
 애노테이션 직접 만들기
 
